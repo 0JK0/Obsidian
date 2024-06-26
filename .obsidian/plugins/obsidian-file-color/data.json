@@ -1,0 +1,40 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "Bt1Tp1dlHxqiC-Z2ids2w",
+      "name": "Purpleish",
+      "value": "#a12db9"
+    },
+    {
+      "id": "ws7v4gEPrypZ0yQmQPPFd",
+      "name": "Aquaish",
+      "value": "#82c2f2"
+    },
+    {
+      "id": "uV66KqpmTT0visoE6cmus",
+      "name": "Greenish",
+      "value": "#00ff9d"
+    },
+    {
+      "id": "OWg-9w9mkj-R0Oc_OamyW",
+      "name": "Redish",
+      "value": "#d16666"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "001 - Diario Filosofico",
+      "color": "OWg-9w9mkj-R0Oc_OamyW"
+    },
+    {
+      "path": "002 - Tecnica",
+      "color": "Bt1Tp1dlHxqiC-Z2ids2w"
+    },
+    {
+      "path": "003 - Projects",
+      "color": "ws7v4gEPrypZ0yQmQPPFd"
+    }
+  ]
+}
