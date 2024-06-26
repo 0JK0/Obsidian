@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mikes-Plan.md",
+                "file": "004 - Notes/Mikes-Plan.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mikes-Plan.md",
+            "file": "004 - Notes/Mikes-Plan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mikes-Plan.md",
+            "file": "004 - Notes/Mikes-Plan.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mikes-Plan.md"
+            "file": "004 - Notes/Mikes-Plan.md"
           }
         }
       },
@@ -165,7 +165,7 @@
   "active": "04e58dea058d705d",
   "lastOpenFiles": [
     "003 - Projects/LUHN.md",
-    "Mikes-Plan.md",
+    "004 - Notes/Mikes-Plan.md",
     "004 - Notes",
     "003 - Projects/README.md.md"
   ]
