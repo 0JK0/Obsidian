@@ -1,2 +1,0 @@
-# Obsidian
-Free obsidian syncing
