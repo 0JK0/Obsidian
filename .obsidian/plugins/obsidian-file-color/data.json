@@ -21,11 +21,16 @@
       "id": "OWg-9w9mkj-R0Oc_OamyW",
       "name": "Redish",
       "value": "#d16666"
+    },
+    {
+      "id": "Vd3bFpD36zx2_i1B_ZNBB",
+      "name": "Bluish",
+      "value": "#424ef0"
     }
   ],
   "fileColors": [
     {
-      "path": "001 - Diario Filosofico",
+      "path": "001 - Thoughts",
       "color": "OWg-9w9mkj-R0Oc_OamyW"
     },
     {
@@ -35,6 +40,42 @@
     {
       "path": "003 - Projects",
       "color": "ws7v4gEPrypZ0yQmQPPFd"
+    },
+    {
+      "path": "004 - Notes",
+      "color": "Vd3bFpD36zx2_i1B_ZNBB"
+    },
+    {
+      "path": "004 - Notes/AA1 - Code",
+      "color": "OWg-9w9mkj-R0Oc_OamyW"
+    },
+    {
+      "path": "004 - Notes/AA1 - Code/BB1 - JavaScript",
+      "color": "Bt1Tp1dlHxqiC-Z2ids2w"
+    },
+    {
+      "path": "004 - Notes/AA1 - Code/BB2 - React",
+      "color": "Bt1Tp1dlHxqiC-Z2ids2w"
+    },
+    {
+      "path": "004 - Notes/AA1 - Code/BB3 - C",
+      "color": "Bt1Tp1dlHxqiC-Z2ids2w"
+    },
+    {
+      "path": "004 - Notes/AA1 - Code/BB4 - Python",
+      "color": "Bt1Tp1dlHxqiC-Z2ids2w"
+    },
+    {
+      "path": "004 - Notes/AA2 - WebDev",
+      "color": "OWg-9w9mkj-R0Oc_OamyW"
+    },
+    {
+      "path": "004 - Notes/AA3 - GameDev",
+      "color": "OWg-9w9mkj-R0Oc_OamyW"
+    },
+    {
+      "path": "004 - Notes/AA4 - AppDev",
+      "color": "OWg-9w9mkj-R0Oc_OamyW"
     }
   ]
 }

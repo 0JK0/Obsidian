@@ -8,17 +8,52 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#tecnica  ",
+      "query": "tag:#documentation  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 10179925
       }
     },
     {
-      "query": "tag:#filosofia  ",
+      "query": "tag:#filosofía  ",
       "color": {
         "a": 1,
         "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#JavaScript  ",
+      "color": {
+        "a": 1,
+        "rgb": 12748531
+      }
+    },
+    {
+      "query": "tag:#tecnica  ",
+      "color": {
+        "a": 1,
+        "rgb": 1506992
+      }
+    },
+    {
+      "query": "tag:#Theme-Basics  ",
+      "color": {
+        "a": 1,
+        "rgb": 38128
+      }
+    },
+    {
+      "query": "tag:#Code ",
+      "color": {
+        "a": 1,
+        "rgb": 11903989
+      }
+    },
+    {
+      "query": "path:\"004 - Notes/AA1 - Code\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8016364
       }
     }
   ],
@@ -32,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": true
+  "scale": 0.4444444444444444,
+  "close": false
 }

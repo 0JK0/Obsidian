@@ -1,5 +1,9 @@
 {
   "accentColor": "#bb24e5",
-  "cssTheme": "Tom's Theme",
-  "theme": "obsidian"
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Ubuntu Mono",
+  "textFontFamily": "Arial",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true
 }

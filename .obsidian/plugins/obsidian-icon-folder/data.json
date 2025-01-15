@@ -1,11 +1,15 @@
 {
   "settings": {
-    "migrated": 4,
+    "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
+    "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiAtSign",
+      "LiBackpack",
+      "LiAArrowUp"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -19,6 +23,21 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
-    "iconIdentifier": ":"
-  }
+    "iconIdentifier": ":",
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsInLinksEnabled": true,
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "002 - Tecnica": "LiBackpack",
+  "003 - Projects": "LiBackpack",
+  "004 - Notes": "LiBackpack",
+  "004 - Notes/AA1 - Code": "LiAtSign",
+  "001 - Thoughts": "LiBackpack",
+  "004 - Notes/AA2 - WebDev": "LiAtSign",
+  "004 - Notes/AA3 - GameDev": "LiAtSign",
+  "004 - Notes/AA4 - AppDev": "LiAtSign"
 }

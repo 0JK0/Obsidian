@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "39df846f55d1762c",
+        "id": "c35defa23f3eccf6",
         "type": "tabs",
         "children": [
           {
-            "id": "6431b5471ae34744",
+            "id": "4f0126f484c4adb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003 - Projects/LUHN.md",
-                "mode": "source",
+                "file": "004 - Notes/AA1 - Code/BB1 - JavaScript/CC1 - Basics.md",
+                "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "CC1 - Basics"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTimeReverse"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vau",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -87,23 +95,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "9c9d39620cf74fd6",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "234905fd1d941be1",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -111,7 +105,39 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "730ecf7861f312fa",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "7095d83792761175",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "9c9d39620cf74fd6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -120,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003 - Projects/LUHN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +153,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -137,28 +164,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003 - Projects/LUHN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "7095d83792761175",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "003 - Projects/LUHN.md"
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 521.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -176,26 +194,36 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "8d9b621464a70ca5",
+  "active": "4f0126f484c4adb3",
   "lastOpenFiles": [
-    "002 - Tecnica/Logica_3/Lógica 3, Class 2.md",
-    "002 - Tecnica/Logica_3/Lógica 3, Class 1.md",
+    "004 - Notes/AA1 - Code/BB1 - JavaScript/CC1 - Basics.md",
+    "004 - Notes/AA1 - Code/BB1 - JavaScript/15-Jan-2025.md",
+    "004 - Notes/AA4 - AppDev",
+    "004 - Notes/AA3 - GameDev",
+    "004 - Notes/AA2 - WebDev",
+    "004 - Notes/AA1 - Code/BB4 - Python",
+    "004 - Notes/AA1 - Code/BB3 - C",
+    "004 - Notes/AA1 - Code/BB2 - React",
+    "004 - Notes/AA1 - Code/BB1 - JavaScript",
+    "004 - Notes/AA1 - Code/Untitled.md",
+    "004 - Notes/Mikes-Plan.md",
+    "004 - Notes/AA1 - Code",
+    "Untitled",
+    "003 - Projects/README.md.md",
+    "Excel 2024-12-11 02.19.52.sheet.md",
+    "003 - Projects/Workout Tracker.md",
+    "003 - Projects/PyMongoDB Manager.md",
+    "001 - Thoughts/07-Apr-2024-Domingo.md",
+    "001 - Thoughts/04-Apr-2024-Jueves.md",
     "002 - Tecnica/Logica_3/Logica 3, Class 3.md",
     "003 - Projects/LUHN.md",
-    "003 - Projects/PyMongoDB Manager.md",
-    "003 - Projects/Workout Tracker.md",
-    "003 - Projects/README.md.md",
-    "Untitled",
+    "Mikes-Plan.md",
+    "004 - Notes",
+    "002 - Tecnica/Logica_3/Lógica 3, Class 2.md",
+    "002 - Tecnica/Logica_3/Lógica 3, Class 1.md",
     "Schedule.md",
-    "001 - Diario Filosofico/07-Apr-2024-Domingo.md",
-    "001 - Diario Filosofico/04-Apr-2024-Jueves.md",
-    "002 - Tecnica/Logica_3",
-    "001 - Diario Filosofico",
-    "001 - Diario Filosofico",
-    "003 - Projects",
     "Homework.md",
     "Excel 2024-03-19 17.11.48.sheet.md",
-    "002 - Tecnica",
     "Untitled.canvas"
   ]
 }
