@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004 - Notes/AA1 - Code/BB1 - JavaScript/CC1 - Basics.md",
+                "file": "004 - Notes/AA1 - Code/BB1 - JavaScript/CC3 - Extra.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CC1 - Basics"
+              "title": "CC3 - Extra"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -101,16 +101,6 @@
             }
           },
           {
-            "id": "feff7021f0239c6d",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
-          },
-          {
             "id": "730ecf7861f312fa",
             "type": "leaf",
             "state": {
@@ -125,9 +115,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "004 - Notes/AA1 - Code/BB1 - JavaScript/CC1 - Basics.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CC1 - Basics"
             }
           },
           {
@@ -146,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "004 - Notes/AA1 - Code/BB1 - JavaScript/CC1 - Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for CC1 - Basics"
             }
           },
           {
@@ -164,15 +157,26 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "004 - Notes/AA1 - Code/BB1 - JavaScript/CC1 - Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from CC1 - Basics"
+            }
+          },
+          {
+            "id": "def368002baec87f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -196,7 +200,9 @@
   },
   "active": "4f0126f484c4adb3",
   "lastOpenFiles": [
+    "004 - Notes/AA1 - Code/BB1 - JavaScript/CC2 - Flux_Control.md",
     "004 - Notes/AA1 - Code/BB1 - JavaScript/CC1 - Basics.md",
+    "004 - Notes/AA1 - Code/BB1 - JavaScript/CC3 - Extra.md",
     "004 - Notes/AA1 - Code/BB1 - JavaScript/15-Jan-2025.md",
     "004 - Notes/AA4 - AppDev",
     "004 - Notes/AA3 - GameDev",
